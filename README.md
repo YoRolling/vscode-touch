@@ -2,8 +2,6 @@
 
 # Touch - Visual Studio Code Extension
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/noopRolling/vscode-touch)
-
 ---
 
 A Touch-Like command of creating files
