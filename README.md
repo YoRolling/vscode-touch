@@ -2,8 +2,6 @@
 
 # Touch - Visual Studio Code Extension
 
----
-
 A Touch-Like command of creating files
 
 _supported by [braces](https://github.com/micromatch/braces)_
@@ -13,6 +11,12 @@ _supported by [braces](https://github.com/micromatch/braces)_
 Now we can use all patterns expand by `braces` to create files.
 
 ## How to Use
+
+- Select `Creating File` in `explorer/context`
+- enter some pattern
+- Press `enter`
+
+It will works like this:
 
 ```sh
 
